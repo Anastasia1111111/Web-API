@@ -1,4 +1,6 @@
-﻿namespace Web_API.Entities
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace Web_API.Entities
 {
     public class AppUser
     {
